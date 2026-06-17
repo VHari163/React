@@ -1,0 +1,24 @@
+localhost link :  http://localhost:5173/
+
+
+componentes and props 
+        repeated usable of the web site
+        component is a reusable piece of code and it returns jsx formate and display user interface
+
+    why do we need a component
+        component without react 
+            very large code 
+            unreadable
+            maintance is difficult
+        components with react
+            reusable across the app
+            easy to debug and test
+            samll ans focused blocks
+            flow of work as their dependencies
+    component structure: "3 types"
+        1.component function 
+        2.return statement
+        3.export statement
+    parent component and the child componente
+        only the parent component can be able allow the data flow
+    multiple props and distracting
