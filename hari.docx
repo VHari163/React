@@ -1,6 +1,6 @@
 localhost link :  http://localhost:5173/
 
-
+Day -09
 componentes and props 
         repeated usable of the web site
         component is a reusable piece of code and it returns jsx formate and display user interface
@@ -22,3 +22,37 @@ componentes and props
     parent component and the child componente
         only the parent component can be able allow the data flow
     multiple props and distracting
+
+Day - 10(hooks)
+    Hooks =>
+    why react introduces hooks=>
+
+
+    interview point of view questions
+        what is a hook?
+            react functional components provides additional features
+        what is state?
+            component data that can change
+        why we use state?
+            to store change in data
+        why we use the effects?(displaying effects)
+            after component renders to perform an action
+        what is a form?
+            used to collect the information from user
+        what is validation?
+            checking the information is correct or not
+
+Day -11(API and fetch API)
+    API -> Application Programer Inteerface
+        in modern web application most data is not existed in the fronted
+        this API acts like a bridge from the frontend to the backend
+        frotend application server all the information can be able to access
+    real life example
+        swiggy flipkart and etc
+    it is a mechanism that allows two software application to communicate
+    why we use the APIs?
+        access data, saves the data to the data base, realtime live updates, can be able to intigrate the third-party-applications/services, share information between applications
+    what is fetch API?
+        fetch APIs build in java script method used to fetch https:// functional
+    get request ?
+        
