@@ -49,10 +49,35 @@ Day -11(API and fetch API)
         frotend application server all the information can be able to access
     real life example
         swiggy flipkart and etc
-    it is a mechanism that allows two software application to communicate
+        it is a mechanism that allows two software application to communicate
     why we use the APIs?
         access data, saves the data to the data base, realtime live updates, can be able to intigrate the third-party-applications/services, share information between applications
     what is fetch API?
         fetch APIs build in java script method used to fetch https:// functional
     get request ?
-        
+        get method is used to get data from source
+    understanding useEffect :
+        efects execues only once 
+    what do we call empty array?
+        dependency array
+    what is meant by post request?
+        post menthod is used to send the data to the server
+    What is meant by Loding State?
+        network busy valla swoldown avthadi dhanni vachi loding state antaru
+    What is meant by Error Handling?
+Interview Questions:
+    what is an API?
+        Api is a machanism it allows to communicate between two applications
+    what is Fetch API?
+        Fetch API is used to make http request in javascript
+    what is ?
+        it converts json data into javascript objects
+    differnce between get and post?
+        get retrives data were as post sends data
+    why use Effects used for API calls?
+        because API causes are side effects and should execute after component rendering
+    what dose [] ?
+    it is called an Empty depencency array and we make the effect run only once were the component moulds
+
+
+IDEA FOR PROJECT
